@@ -11,7 +11,7 @@ A modern, glassmorphism-style personal portfolio website built to showcase my sk
 
 ## 🖥️ Live Preview
 
-> **[ashmk04.github.io](https://ashmk04.github.io/ashishmutkule-portfolio/)**
+> **[ashmk04.github.io](https://ashishmutkule-portfolio.vercel.app/)**
 
 ---
 
